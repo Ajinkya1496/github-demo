@@ -1,0 +1,1 @@
+console.log("B created payment module")
